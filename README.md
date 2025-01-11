@@ -2,7 +2,7 @@
 Centralized mirror of Linux distribution ISOs, making downloads easier and more accessible.
 
 # Primarias
-- [arch](enlace-a-la-iso)
+- [arch](mds/Arch.md)
 - [debian](enlace-a-la-iso)
   - [ubuntu](enlace-a-la-iso)
 - [open suse](enlace-a-la-iso)
